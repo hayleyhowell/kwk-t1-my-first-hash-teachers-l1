@@ -5,7 +5,7 @@ def my_hash
     "vegetable" => "tomato"
     "meat" => "beef"
   }
-  
+  dictionary
 end
 
 
